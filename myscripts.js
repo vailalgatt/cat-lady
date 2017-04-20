@@ -3,7 +3,7 @@ var catStatus = document.getElementById("catStatus")
 var counter = 0
 var catButton = document.getElementById("catButton")
 
-
+ 
 
 function petCat(){
     counter++
