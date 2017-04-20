@@ -25,7 +25,7 @@ function reset(){
     petCount.innerHTML = counter
     catStatus.innerHTML = "Purrrr"
     catButton.disabled = false
-    catPic.src="Cat-png.png"
+    catPic.src="cat.png"
 }
 
 
